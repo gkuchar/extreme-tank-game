@@ -1,0 +1,23 @@
+# IntelliJ project files
+.idea/
+*.iml
+
+# Build output
+out/
+build/
+target/
+
+# OS junk
+.DS_Store
+
+# Logs
+*.log
+
+# Java compilation artifacts
+*.class
+
+# JavaFX cache
+*/javafx-cache/
+
+# Temporary files
+*.tmp
